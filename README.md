@@ -6,7 +6,7 @@ in the paper.
 
 [**Using predictive machine learning models for drug response simulation by calibrating patient-specific pathway signatures**]
 
-Golriz Khatami, S., Mubeen, S., Bharadhwaj, V.S. <em>et al </em>.(2021). Using predictive machine learning models for drug response simulation by calibrating patient-specific pathway signatures. <em> npj Syst Biol </em>Appl 7, 40. https://doi.org/10.1038/s41540-021-00199-1 
+Golriz Khatami, S., Mubeen, S., Bharadhwaj, V.S. <em>et al </em>.(2021). Using predictive machine learning models for drug response simulation by calibrating patient-specific pathway signatures. <em> npj Syst Biol Appl 7</em>, 40. https://doi.org/10.1038/s41540-021-00199-1 
 
 ## Repository structure
 
