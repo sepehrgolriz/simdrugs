@@ -2,11 +2,10 @@
 This repository contains the source code and the data necessary to reproduce the results presented
 in the paper.
 
-### Preprint
+### Citation
 
-[**Using predictive machine learning models for drug response simulation by calibrating patient-specific pathway signatures**](https://doi.org/10.1101/2020.12.06.413435).<br />
-Khatami, S. G., Mubeen, S., Bharadhwaj, V. S., Kodamullil, A. T., Hofmann-Apitius, M., & Domingo-Fernandez, D. (2020).<br />
-*bioRxiv*, 2020.12.06.413435. 
+[**Using predictive machine learning models for drug response simulation by calibrating patient-specific pathway signatures**]
+Golriz Khatami, S., Mubeen, S., Bharadhwaj, V.S. et al. Using predictive machine learning models for drug response simulation by calibrating patient-specific pathway signatures. npj Syst Biol Appl 7, 40 (2021). https://doi.org/10.1038/s41540-021-00199-1 
 
 ## Repository structure
 
